@@ -50,7 +50,4 @@ Note that in the written Japanese, a question mark does not follow `か` to infe
 > [紅茶を一杯いかがですか。]()  
 > How about a cup of tea?
 
-#
-
-
 
