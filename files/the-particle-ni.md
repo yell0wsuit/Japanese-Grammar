@@ -38,12 +38,12 @@ In speech `へ` gives greater room for generalisations about direction or destin
 に is used to denote a specific time:
 
 For example: 
-> [６時半に起きました。]()     
+> [6時半に起きました。]()     
 > I got up at 6.30.
 
 #
 
-> [２月に福岡へ行きます。]()     
+> [2月に福岡へ行きます。]()     
 > I will go to Fukuoka in February.
 
 #
@@ -65,12 +65,12 @@ For example:
 
 #
 
-> [６時半に起きました。]()   
+> [6時半に起きました。]()   
 > I got up at 6.30.
 
 #
 
-> [２月に福岡へ行きます。]()   
+> [2月に福岡へ行きます。]()   
 >I will go to Fukuoka in February)
 
 #
