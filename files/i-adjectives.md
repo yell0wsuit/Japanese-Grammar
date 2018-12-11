@@ -1,6 +1,6 @@
 # I-Adjectives
- ---
-As the name might suggest, all i-adjectives end with the kana `い`. I-adjectives are one of two main groups of adjectives, the other group being [na-adjectives](adjective-naform).  
+
+As the name might suggest, all i-adjectives end with the kana `い`. I-adjectives are one of two main groups of adjectives, the other group being [na-adjectives](adjective-naform.md).  
 
 There are a few na-adjectives that also end with `い`, `きれい` being the most common example. So how do you tell the difference between the two?
 
@@ -25,7 +25,7 @@ The easiest way is to delve into the kanji. When `きれい` is written in kanji
 > [悪い]()  
 > Bad
 
-## Conjugating I-Adjectives:
+## Conjugating I-Adjectives
 * Negative: Remove the `い` and add `くない`.
 * Past-affirmative: Remove the `い` and add `かった`.
 * Past-negative: Remove the `い` and add `くなかった`.
@@ -63,5 +63,3 @@ To modify nouns with i-adjectives, you must conjugate the adjective first:
 
 > [高くなかった山です。]()  
 > It was not a tall mountain.
-
- ---
