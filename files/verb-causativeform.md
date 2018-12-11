@@ -1,5 +1,5 @@
 # The Causative Form
- ---
+
 The causative form is used to describe when someone or something has made something happen or, as the name suggests, causes something to happen.
 
 ## Using the Causative Form
@@ -68,4 +68,4 @@ Each of these verbs in the causative form are effectively new verbs in the ru-fo
 > [待たせてごめんなさい。]()  
 > Sorry I made you wait.
 
- ---
+

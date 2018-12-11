@@ -1,5 +1,5 @@
 # The Mashita-Form
- ---
+
 In Japanese, verbs ending in mashita (`ました`) are in the polite, past affirmative. The mashita-form is the past tense of the masu-form (see below).
 
 As a member of the masu-form, verbs ending in mashita are considered polite, and are safe for every day use with strangers, new acquaintances and superiors in Japan.
@@ -52,4 +52,4 @@ The basic conjugations of the masu-form are these:
 > Once upon a time, there lived a great king in Greece.
 
 
- ---
+

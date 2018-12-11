@@ -1,5 +1,5 @@
 # The Negative Imperative
- ---
+
 This form is for giving commands in the negative, allowing you to make sentences such as 'don't do that'. It is considered very direct in Japanese speech.
 
 ## Conjugation 
@@ -32,4 +32,4 @@ Simply take the dictionary form of the verb and add `な`.
 > [そんなに悲観的になるな。]()   
 > Don't be so pessimistic.
 
- ---
+

@@ -1,5 +1,5 @@
 # The Potential Form
- ---
+
 Verbs in the potential form are used to let the listener know that someone can or can't do something; literally whether they have the potential to do a verb. 
 
 Conjugation of verbs into the potential form is similar in meaning to using the phrase `ことができます`, but slightly less formal. 
@@ -61,4 +61,4 @@ It is possible to overcome.
 > [できる限り早く]()   
 > As soon as possible.
 
- ---
+

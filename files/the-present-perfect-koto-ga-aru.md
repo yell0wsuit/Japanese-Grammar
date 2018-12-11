@@ -1,5 +1,5 @@
 # The Present Perfect with ことがある
- ---
+
 If you want to say that you have experienced or done something in the past, use `ことがある`. This construct allows you to create sentences in the present perfect tense, such as 'I have been to Okinawa'.
 
 ## Using ことがある
@@ -72,4 +72,4 @@ You can however, say how many times you've done something in the past, for examp
 > I've climbed Mt. Fuji twice.
 
 
- ---
+

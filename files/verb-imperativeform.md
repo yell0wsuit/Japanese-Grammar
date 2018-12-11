@@ -1,5 +1,5 @@
 # The Imperative Form
- ---
+
 The imperative form is used to give commands. No messing about with pleasantries, it's for getting straight to the point. 
 
 Take care who you're using the imperative form with in Japanese as it is considered very direct and can feel rude if used in the wrong context.
@@ -49,4 +49,4 @@ As well as the usual suspects, `くれる` is also an irregular verb in the impe
 #
 
 
- ---
+

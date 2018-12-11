@@ -1,5 +1,5 @@
 # The Volitional Form
- ---
+
 The volitional form of a verb has the same meaning as the [mashou-form](verb-masyou) and is used for suggesting activities or things to do. 
 
 The volitional form is, however, less polite than the mashou-form and more likely to be used between close friends. Want to suggest going for a drink with that special someone? Then this is the conjugation for you! 
@@ -52,4 +52,4 @@ While most informal forms of speech do not use the particle か to form a questi
 > [さてどうしよう。]()   
 > What shall I do now?
 
- ---
+

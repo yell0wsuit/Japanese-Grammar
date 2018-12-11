@@ -1,5 +1,5 @@
 # The Nai-Form
- ---
+
 The nai-form is used as the non-past negative in plain or casual speech. It is also used to create functional sentences such as inviting someone to do something and requesting someone refrains from doing something.
 
 ## Conjugating the Nai-Form
@@ -66,4 +66,4 @@ There are exceptions to the above conjugation rules in the forms of Group III ve
 > [彼はまだ来ないな。]()  
 > He isn't here yet.
 
- ---
+

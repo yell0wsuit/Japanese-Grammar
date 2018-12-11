@@ -1,5 +1,5 @@
 # The Mashou-Form
- ---
+
 The mashou-form, a.k.a the polite volitional, is used for suggesting activities or things to do.
 
 The mashou-form is the more polite version of the [volitional form](verb-volitionalform), and the two share the same meaning. The difference between the two forms is their relative politeness.
@@ -67,4 +67,4 @@ You can also use `ましょうか` to offer assistance to somebody, for example 
 > [荷物を持ちましょうか]()  
 > Shall I carry your luggage?
 
- ---
+

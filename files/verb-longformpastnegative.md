@@ -1,5 +1,5 @@
 # The Masendeshita-Form
- ---
+
 In Japanese, verbs ending in masendeshita (`ませんでした`) are in the polite, past negative. The masendeshita-form is the past negative of the masu-form (see below).
 
 Verbs ending in `ませんでした` are considered polite, and are safe for every day use with strangers, new acquaintances and superiors in Japan.
@@ -56,4 +56,4 @@ The basic conjugations of the masu-form are these:
 > [こんなのは見たことがありませんでした。]()  
 > I've never seen anything like this before.
 
- ---
+

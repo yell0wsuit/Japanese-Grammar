@@ -1,5 +1,5 @@
 # Verb Stems
- ---
+
 Japanese verb stems have all sorts of uses. They are a stepping stone between plain and polite speech, they are used to link verbs together to create new constructs, and can even be combined with verbs to create new verb compounds.
 
 ## Conjugation
@@ -53,4 +53,4 @@ If you already know a verb in its masu-form, simply remove the `ます` and hey 
 > [お昼何食べたいですか]()  
 >What do you want to eat for lunch?
 
- ---
+

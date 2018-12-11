@@ -1,5 +1,5 @@
 # The Te-Form
- ---
+
 The te-form is one of the most useful forms in Japanese and you will find it in all sorts of grammatical constructs. 
 
 The te-form is used most commonly for making requests, giving and asking permission, stating something is forbidden and for linking sentences together to describe a series of activities.
@@ -100,4 +100,4 @@ Click the links to the following topics for more detailed uses of the te-form:
 > [それを食べてはいけません。]()  
 > Don't eat it.
 
- ---
+

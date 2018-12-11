@@ -1,5 +1,5 @@
 # The Conditional Form
- ---
+
 The conditional form involves the direct conjugation of a verb, noun or adjective to make a sentence conditional. It is the equivalent of constructing a sentence in English that contains the word 'if'. 
 
 The conditional form is one of four ways to create conditional sentences in Japanese. The other three are using the the particle `と`, the nara-form and the tara-form. 
@@ -71,4 +71,4 @@ Correct usage of the conditional form can be seen in the examples below:
 > [金持ちであればいいのに。]()  
 > I wish I were rich.; lit. It would be good if I were rich.
 
- ---
+

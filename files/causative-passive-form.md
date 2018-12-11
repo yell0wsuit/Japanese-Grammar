@@ -1,5 +1,5 @@
 # The Causative-Passive Form
- ---
+
 The causative-passive from combines the causative and passive forms. It is used to create sentences along the lines of 'someone was made to do something by someone else'. For example:
 
 > [弟はお父さんに歩いて帰らせられた。]()  
@@ -93,4 +93,4 @@ The 'Maker' can also be omitted from a sentence if there's no person in particul
 > [友達に二時間も待たせられた。]()  
 > My friend cause me to wait for two hours.
 
- ---
+

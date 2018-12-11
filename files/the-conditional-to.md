@@ -1,5 +1,5 @@
 # The Conditional と
- ---
+
 `と` can be used a conditional conjunction, equivalent to the word 'if'. It is used when a condition brings about a non-controllable event or state. 
 
 ## Using と
@@ -41,4 +41,4 @@ As stated before, と precedes are natural and predictable events/states or unav
 > [２０歳以上だと、日本ではお酒が飲めます。]()  
 > If you are older than 20, you can drink alcohol in Japan.
 
- ---
+

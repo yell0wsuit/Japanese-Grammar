@@ -1,5 +1,5 @@
 # The Masu-Form
- ---
+
 The masu-form is the polite, non-past affirmative form of a verb. 
 
 It is considered polite in general conversation, so using the masu-form it is your best bet if you're uncertain how to address someone in Japanese or when talking to strangers, new acquaintances and superiors.
@@ -37,4 +37,4 @@ Unlike English and most romantic languages, Japanese verbs do not conjugate base
 > [もう寝ます。]()   
 > I'm going to sleep now.
 
- ---
+

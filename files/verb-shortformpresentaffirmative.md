@@ -1,5 +1,5 @@
 # The Dictionary Form
- ---
+
 The dictionary form is the most basic form of a Japanese verb. It is also the non-past, affirmative conjugation of plain speech.
 
 Uses of the dictionary form include quoting people, saying you like doing something or saying you're good at something. 
@@ -45,4 +45,4 @@ Click through the following topics to see other uses of the dictionary form:
 > [父は酒を飲むのをやめた。]()  
 > My father stopped drinking alcohol.
 
- ---
+

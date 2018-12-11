@@ -1,5 +1,5 @@
 # Verb Basics
- ---
+
 As with all languages, verbs in Japanese conjugate in several ways to provide context to the action at hand. At its basic level, Japanese verb conjugation is about as simple as it comes; you'll have it mastered in no time.
 
 ## Verb Classification
@@ -29,4 +29,4 @@ You will be happy to learn that Japanese verbs only have two tenses: non-past (i
 
 Also, unlike English and most romantic languages, Japanese verbs do not conjugate based on their subject and remain unaffected whether 'I', 'you', 'he', 'she' or 'they' is the subject. 
 
- ---
+

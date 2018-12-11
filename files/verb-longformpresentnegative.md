@@ -1,5 +1,5 @@
 # The Masen-Form
- ---
+
 In Japanese, verbs ending in masen `ません` are in the polite, non-past negative. The masen-form is the negative of the masu-form (see below).
 
 Verbs ending in `ません` are considered polite, and are safe for every day use with strangers, new acquaintances and superiors in Japan.
@@ -46,4 +46,4 @@ The basic conjugations of the masu-form are these:
 > [この単語が分かりません。]()  
 > I don't understand this word.
 
- ---
+

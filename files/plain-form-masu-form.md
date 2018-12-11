@@ -1,5 +1,5 @@
 # Going from the Plain Form to the Masu-Form on the Fly
- ---
+
 Though most Japanese students will encounter the masu-form before the plain-form (it is simpler to learn), there will come a time in your Japanese life where you will encounter a verb in the plain form and wonder how you turn it into the masu-form. Here's how:
 
 ## U-verbs (Group I)
@@ -38,4 +38,4 @@ The above examples all use verb stems. Learn more about [verb stems](verb-iform)
 ## See Also
 * [All About Verb Stems](verb-iform)
 
- ---
+

@@ -1,5 +1,5 @@
 # Transitive and Intransitive Verbs
- ---
+
 Sometimes verbs are used to describe one thing's action upon another thing, involving a subject, and an object. These verbs are known as transitive verbs. 
 
 The opposite is intransitive verbs, which can be used without the need of an object and mostly describe changes in state.
@@ -44,4 +44,4 @@ Because of the difference between the two verb types, particle usage is differen
 > Intransitive: [ドアが閉まりました]()  
 > The door was opened
 
- ---
+

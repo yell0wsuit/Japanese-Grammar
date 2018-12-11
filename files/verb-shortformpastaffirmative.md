@@ -1,5 +1,5 @@
 # The Ta-Form
- ---
+
 The ta-form is used as the past affirmative in plain or casual speech.
 
 ## Conjugation
@@ -100,4 +100,4 @@ Take the dictionary form of the verb, remove the `る` and add `た`.
 > [冬が来た。]()  
 > Winter has come.
 
- ---
+

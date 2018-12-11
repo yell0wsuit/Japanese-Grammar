@@ -1,5 +1,5 @@
 # The Passive Form
- ---
+
 The passive form is used in Japanese when something has occurred to affect the subject, without action by the subject (i.e the subject is passive). 
 
 Unlike in English, where the passive voice is discouraged, the passive form has a strong place within Japanese speech.
@@ -79,4 +79,4 @@ This is just one way to use the passive form, see the example sentences below fo
 > [彼の話は、奇妙だが、信じられる。]()  
 > His story is strange, but it's believable.
 
- ---
+

@@ -1,5 +1,5 @@
 # The Nakatta-Form
- ---
+
 The nakatta-form is the past tense, negative of a verb in plain or casual speech.
 
 ## Conjugating the Nakatta-Form
@@ -62,4 +62,4 @@ There are exceptions to the above conjugation rules in the form of irregular ver
 > [彼はまるで何事もなかったかのような顔をしていた。]()  
 > He looked as if nothing had happened.
 
- ---
+

@@ -1,5 +1,5 @@
 # How to use ている
- ---
+
 If you see or hear `ている` used in a sentence, it usually means one of two things:
 
 1. an action is currently happening, or in progress (a.k.a the progressive tense), or
@@ -91,4 +91,4 @@ If you want to say that you've not yet done something, you can use the negative 
 > [まだ夕食を食べていません。]()  
 > I haven't eaten dinner yet.
 
- ---
+
