@@ -31,7 +31,7 @@ Note: `ではありません` is commonly contracted to `じゃありません`.
 
 #
 
-> [自賠は4時からです。]()  
+> [演奏は4時に始まりです。]()  
 > \[Polite] The play starts at 4 o'clock.
 
 #
