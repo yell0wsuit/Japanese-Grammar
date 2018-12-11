@@ -7,7 +7,7 @@ Take the plain, non-past affirmative. Remove the final `い`, then add `くな�
 
 * `高い` becomes `高` and then conjugates to `高くなかった`.
 
-### Common Plain Form, Non-Past Affirmative I-Adjectives.
+### Common Plain Form, Non-Past Affirmative I-Adjectives
 
 > [暖かくなかった]()  
 > It wasn't warm
