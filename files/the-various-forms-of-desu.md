@@ -27,17 +27,17 @@ Note: `ではありません` is commonly contracted to `じゃありません`.
 #
 
 > [彼女は兄の友達だ。]()  
-> Plain: She's my brother's friend.
+> \[Plain] She's my brother's friend.
 
 #
 
 > [自賠は4時からです。]()  
-> Polite: The play starts at three o'clock.
+> \[Polite] The play starts at 4 o'clock.
 
 #
 
 > [レストランは２階でございます。]()  
-> Very polite: The restaurant is on the second floor.
+> \[Very polite] The restaurant is on the second floor.
 
 #
 
