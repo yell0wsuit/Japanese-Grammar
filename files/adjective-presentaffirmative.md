@@ -7,7 +7,7 @@ Take the [plain, non-past affirmative](adjective-informalpastaffirmative.md). Ad
 
 * `高い` conjugates to `高です`.
 
-### Common Polite Form, Non-Past Affirmative I-Adjectives.
+### Common Polite Form, Non-Past Affirmative I-Adjectives
 
 > [暖かいです]()  
 > It is warm
