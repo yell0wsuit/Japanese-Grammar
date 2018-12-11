@@ -6,7 +6,7 @@ The basic formations of the plain-form are these:
 
 ||Affirmative|Negative|
 |:--|:--|:--|
-|Non-past|Dictionary-form|Nai-form|
-|Past|Ta-form|Nakatta-form|
+|Non-past|[Dictionary-form](verb-shortformpresentaffirmative.md)|[Nai-form](verb-shortformpresentnegative.md)|
+|Past|[Ta-form](verb-shortformpastaffirmative.md)|[Nakatta-form](verb-shortformpastnegative.md)|
 
 As you can see, there are only two tenses to learn in the above table. Non-past (i.e. present & future) and past. Unlike English and most romantic languages, Japanese verbs do not conjugate based on their subject and remain unaffected whether 'I', 'you', 'he', 'she' or 'they' is the subject.
