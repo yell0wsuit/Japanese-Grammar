@@ -26,7 +26,7 @@ In subordinate clauses, the subject is marked with `が` unless the subordinate 
 
 In the above example `私が` is the subordinate clause, while `昨日見た映画` is the topic. 
 
-### Following interrogatives
+### Following interrogatives
 Interrogatives such as `何`, `誰` and `どこ` are never the topic of a sentence and so they are followed by `が`. If the question relates to a direct object, the particle `を` is also used.
 
 > [何が心配なの？]()   
