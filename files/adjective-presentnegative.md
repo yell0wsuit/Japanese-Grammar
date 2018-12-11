@@ -1,5 +1,5 @@
 # Adjectives: The Polite Non-past Negative
- ---
+
 ## I-Adjectives
 The polite, non-past negative of an i-adjective is conjugated as follows:
 
@@ -7,7 +7,7 @@ Take the plain, non-past affirmative. Remove the final `い` and add `くない�
 
 * `高い` becomes `高` and then conjugates to `高くないです`.
 
-### Common Polite Form, Non-Past Affirmative I-Adjectives.
+### Common Polite Form, Non-Past Affirmative I-Adjectives
 
 > [暖かくないです]()     
 > It is not warm
@@ -22,7 +22,7 @@ Take the plain, non-past affirmative. Remove the final `い` and add `くない�
 > [面白くないです]()  
 > It is not interesting/funny
 
-[Learn more about i-adjectives](i-adjectives)
+[Learn more about i-adjectives](i-adjectives.md)
 
 ## Na-Adjectives
 The polite, non-past negative of a na-adjective is conjugated as follows:
@@ -31,7 +31,7 @@ Take the plain, non-past affirmative. Remove `だ` and add `じゃありませ�
 
 * `好きだ` conjugates to `好きじゃありません`
 
-### Common Polite Form, Non-Past Affirmative Na-Adjectives.
+### Common Polite Form, Non-Past Affirmative Na-Adjectives
 
 > [好きじゃありません]()  
 > I don't like it
@@ -46,11 +46,9 @@ Take the plain, non-past affirmative. Remove `だ` and add `じゃありませ�
 > [きれいじゃありません]()  
 > It is not beautiful/clean
 
-[Learn more about na-adjectives](adjective-naform)
+[Learn more about na-adjectives](adjective-naform.md)
 
 ## See Also:
-* [Adjectives: The Polite Non-past Affirmative](adjective-presentaffirmative)
-* [Adjectives: The Polite Past Affirmative](adjective-pastaffirmative)
-* [Adjectives: The Polite Past Negative](adjective-pastnegative)
-
- ---
+* [Adjectives: The Polite Non-past Affirmative](adjective-presentaffirmative.md)
+* [Adjectives: The Polite Past Affirmative](adjective-pastaffirmative.md)
+* [Adjectives: The Polite Past Negative](adjective-pastnegative.md)
