@@ -1,6 +1,6 @@
 # Polite Commands with なさい
 
-While the [imperative form](verb-imperativeform) allows you to make direct commands, this form allows you to make polite commands. This form is stronger than using `ください`, but more respectful than using the imperative or negative imperative forms. 
+While the [imperative form](verb-imperativeform.md) allows you to make direct commands, this form allows you to make polite commands. This form is stronger than using `ください`, but more respectful than using the imperative or negative imperative forms. 
 
 This form is commonly used when parents are telling off their child, or a teacher wants the attention of a distracted pupil. 
 
