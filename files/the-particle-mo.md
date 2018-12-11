@@ -54,17 +54,17 @@ You can use `も` in questions to ask whether someone shares the same characteri
 ## も with Quantity
 `も` can also be used with quantities of things to emphasise their size (for better or for worse). For example, if you receive ¥50,000 you could say: 
 
-> [５万円 貰いました。]()  
+> [5万円 貰いました。]()  
 > I received ¥50,000.
 
 However if you want to emphasise this statement, because you believe it to be a large quantity, you can say:
 
-> [５万円も貰いました。]()  
+> [5万円も貰いました。]()  
 > Wow, I received ¥50,000.
 
 `も` can be used to emphasise both positive and negative, so if something cost you ¥5,000 and you think that it was expensive, you could say:
 
-> [５千円もかかった。]()  
+> [5千円もかかった。]()  
 > Boo, it cost ¥5,000.
 
 ## も with Interrogative Pronouns
@@ -81,19 +81,19 @@ For example:
 > [誰もがほっとしたようだった。]()  
 > Everyone looked relieved.
 
-## Using も to mean Not Even
+## Using も to mean 'not even'
 Using the following construct, you can use `も` to mean 'not even'.
 
-* ー + counter + も + negative verb
+* **ー** + **counter** + **も** + **negative verb**
 
-For example, `滴` is used as the counter for a drop of something: 一滴 means one drop. So, to create a sentence in Japanese along the lines of, 'it hasn't rained a drop' you would use `も` as follows:
+For example, `滴` is used as the counter for a drop of something: `一滴` means one drop. So, to create a sentence in Japanese along the lines of, 'it hasn't rained a drop' you would use `も` as follows:
 
 > [雨が一滴も降らなかった。]()  
 > It's not even rained a drop
 
 This construct can be used with any countable unit. 
 
-## Example Sentences:
+## Example Sentences
 > [私も日本人です。]()  
 > I'm also Japanese
 
@@ -116,8 +116,3 @@ This construct can be used with any countable unit.
 
 > [私の町には外国人は一人もいません]()  
 > There are no people from abroad living in my town.
-
-#
-
-
-
