@@ -33,6 +33,6 @@ Interrogatives such as `何`, `誰` and `どこ` are never the topic of a senten
 > What are you worrying about?
 
 ### Other functions
-`が` appears in many other guises, and amongst other things can be used as a conjunction that translates to a weaker version of the english conjunction 'but'.
+`が` appears in many other guises, and amongst other things can be used as a conjunction that translates to a weaker version of the English conjunction 'but'.
 
 
