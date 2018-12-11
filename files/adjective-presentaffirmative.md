@@ -1,9 +1,9 @@
 # Adjectives: The Polite Non-past Affirmative
- ---
+
 ## I-Adjectives
 The polite, non-past affirmative of an i-adjective is conjugated as follows:
 
-Take the [plain, non-past affirmative](adjective-informalpastaffirmative). Add `です`. For example:
+Take the [plain, non-past affirmative](adjective-informalpastaffirmative.md). Add `です`. For example:
 
 * `高い` conjugates to `高です`.
 
@@ -22,7 +22,7 @@ Take the [plain, non-past affirmative](adjective-informalpastaffirmative). Add `
 > [面白いです]()   
 > It is interesting/funny
 
-[Learn more about i-adjectives](i-adjectives)
+[Learn more about i-adjectives](i-adjectives.md)
 
 ## Na-Adjectives
 The polite, non-past affirmative of a na-adjective is conjugated as follows:
@@ -49,8 +49,6 @@ Take the plain, non-past affirmative. Remove `だ` and add `です`. For example
 [Learn more about na-adjectives](adjective-naform)
 
 ## See Also:
-* [Adjectives: The Polite Past Affirmative](adjective-pastaffirmative)
-* [Adjectives: The Polite Non-past Negative](adjective-presentaffirmative)
-* [Adjectives: The Polite Past Negative](adjective-pastnegative)
-
- ---
+* [Adjectives: The Polite Past Affirmative](adjective-pastaffirmative.md)
+* [Adjectives: The Polite Non-past Negative](adjective-presentaffirmative.md)
+* [Adjectives: The Polite Past Negative](adjective-pastnegative.md)
