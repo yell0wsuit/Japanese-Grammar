@@ -31,7 +31,7 @@ Take the plain, non-past affirmative. Remove `だ` and add `です`. For example
 
 * `好きだ` conjugates to `好きです`
 
-### Common Polite Form, Non-Past Affirmative Na-Adjectives.
+### Common Polite Form, Non-Past Affirmative Na-Adjectives
 
 > [好きです]()  
 > I like it
