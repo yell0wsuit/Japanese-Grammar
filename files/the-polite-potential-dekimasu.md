@@ -1,6 +1,6 @@
 # The Polite Potential: できます
 
-One way of creating potential verbs in Japanese - to say you have the ability to do something - is to use the [potential form](verb-potential). Another way to form the potential, one which is more polite, is to use the verb `できます`.
+One way of creating potential verbs in Japanese - to say you have the ability to do something - is to use the [potential form](verb-potential.md). Another way to form the potential, one which is more polite, is to use the verb `できます`.
 
 ## Verbs
 To say you have the ability (potential) to perform an action, combine the plain form of a verb with `ことができます`. For example:
@@ -35,7 +35,8 @@ If a noun is closely associated with a verb, `できる` can be attached directl
 > [ギターができます]()  
 > I can play guitar.
 
-## Example Sentences: 
+
+## Example Sentences
 
 > [私は半分の時間でできます。]()  
 > I can do it in half the time.
