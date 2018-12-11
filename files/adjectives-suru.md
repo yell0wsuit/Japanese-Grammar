@@ -1,5 +1,5 @@
 # Adjectives + する
- ---
+
 Adjectives are used in conjugation with the verb `する` to make adjectives active, creating sentences such as `冷たくする` (to make something cold/colder).
 
 ## i-adjectives
@@ -36,7 +36,3 @@ These forms are often combined with the te-form of `する` to make polite reque
 > [この間の試験は難しすぎたので、次の試験は優しくしてください。]()  
 > Please make the next exam easier, because the last one was too difficult.
 
-#
-
-
- ---
