@@ -24,7 +24,7 @@ To make questions with `か`, simply take your polite form sentence and put か 
 
 Note that in the written Japanese, a question mark does not follow `か` to infer that the sentence is a question. However, if the speaker was to ask a question in plain form, then a question mark would be needed to indicate it was a question rather than a statement in the written form. 
 
-`か` is not usually used following a plain form sentence as it makes the sentence sound too direct. The one exceptions is when using the [volitional form](verb-volitionalform).
+`か` is not usually used following a plain form sentence as it makes the sentence sound too direct. The one exceptions is when using the [volitional form](verb-volitionalform.md).
 
 ## Example Sentences: 
 > [眠いですか？]()  
