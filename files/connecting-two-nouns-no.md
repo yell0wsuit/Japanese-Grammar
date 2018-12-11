@@ -23,7 +23,7 @@ When using `の` to connect two nouns, the first noun is the possessor and the s
 
 #
 
-> [彼はＦＢＩの大物だ。]()  
+> [彼は FBI の大物だ。]()  
 > He's an important person in the FBI.
 
 
