@@ -33,7 +33,7 @@ No rules here, just the two old irregular verbs to learn.
 
 Once you've got these rules down, you'll be able to flip any verb from its dictionary-form to its masu-form. You can then conjugate further into the negative, past affirmative and past negative forms of the masu-form. 
 
-The above examples all use verb stems. Learn more about [verb stems](verb-iform), here.
+The above examples all use verb stems. Learn more about [verb stems](verb-iform.md), here.
 
 ## See Also
 * [All About Verb Stems](verb-iform.md)
