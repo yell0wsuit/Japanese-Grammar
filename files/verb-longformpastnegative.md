@@ -18,9 +18,9 @@ The basic conjugations of the masu-form are these:
 |Past|verb + ました|verb + ませんでした|
 
 ## See Also:
-* [The Masu-Form](verb-longformpresentaffirmative)
-* [The Masen-Form](verb-longformpresentnegative)
-* [The Mashita-Form](verb-longformpastaffirmative)
+* [The Masu-Form](verb-longformpresentaffirmative.md)
+* [The Masen-Form](verb-longformpresentnegative.md)
+* [The Mashita-Form](verb-longformpastaffirmative.md)
 
 ## Example Sentences:
 > [痛くありませんでしたか？]()   

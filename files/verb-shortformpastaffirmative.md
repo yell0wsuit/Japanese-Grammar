@@ -62,9 +62,9 @@ Take the dictionary form of the verb, remove the `る` and add `た`.
 |[行く](1578850)|行った|
 
 ## See Also:
-* [The Dictionary Form](verb-shortformpresentaffirmative)
-* [The Nai-Form](verb-shortformpresentnegative)
-* [The Nakatta-Form](verb-shortformpastnegative)
+* [The Dictionary Form](verb-shortformpresentaffirmative.md)
+* [The Nai-Form](verb-shortformpresentnegative.md)
+* [The Nakatta-Form](verb-shortformpastnegative.md)
 
 ## Example Sentences:
 > [きのう雨が降った。]()   

@@ -43,9 +43,9 @@ There are exceptions to the above conjugation rules in the forms of Group III ve
 |[ある]()|ない|
 
 ## See Also:
-* [The Dictionary Form](verb-shortformpresentaffirmative)
-* [The Ta-Form](verb-shortformpastaffirmative)
-* [The Nakatta-Form](verb-shortformpastnegative)
+* [The Dictionary Form](verb-shortformpresentaffirmative.md)
+* [The Ta-Form](verb-shortformpastaffirmative.md)
+* [The Nakatta-Form](verb-shortformpastnegative.md)
 
 ## Example Sentences:
 > [彼女は子供達に通りで遊ばないように注意した。]()  

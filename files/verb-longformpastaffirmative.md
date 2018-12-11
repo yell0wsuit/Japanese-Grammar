@@ -18,9 +18,9 @@ The basic conjugations of the masu-form are these:
 |Past|verb + ました|verb + ませんでした||
 
 ## See Also:
-* [The Masu-Form](verb-longformpresentaffirmative)
-* [The Masen-Form](verb-longformpresentnegative)
-* [The Masen-Deshita Form](verb-longformpastnegative)
+* [The Masu-Form](verb-longformpresentaffirmative.md)
+* [The Masen-Form](verb-longformpresentnegative.md)
+* [The Masen-Deshita Form](verb-longformpastnegative.md)
 
 ## Example Sentences:
 > [お邪魔しました。]()  
@@ -50,6 +50,4 @@ The basic conjugations of the masu-form are these:
 
 > [昔々ギリシャに偉大な王様が住んでいました。]()  
 > Once upon a time, there lived a great king in Greece.
-
-
 

@@ -22,14 +22,14 @@ When close friends, colleagues, family etc. are talking to one another, they wil
 ### Other Uses: 
 Click through the following topics to see other uses of the dictionary form:
 
-* [Quoting People and Saying What You Think](quoting-people-saying-what-you-think)
-* [How to Say You Like Doing Something](like-activity-no-ga-suki)
-* [Saying You're Good or Bad at Something](saying-youre-skilled-at-something)
+* [Quoting People and Saying What You Think](quoting-people-saying-what-you-think.md)
+* [How to Say You Like Doing Something](like-activity-no-ga-suki.md)
+* [Saying You're Good or Bad at Something](saying-youre-skilled-at-something.md)
 
 ## See Also:
-* [The Nai-Form](verb-shortformpresentnegative)
-* [The Ta-Form](verb-shortformpastaffirmative)
-* [The Nakatta-Form](verb-shortformpastnegative)
+* [The Nai-Form](verb-shortformpresentnegative.md)
+* [The Ta-Form](verb-shortformpastaffirmative.md)
+* [The Nakatta-Form](verb-shortformpastnegative.md)
 
 ## Example Sentences:
 > [それを開ける道具が必要です。]()  

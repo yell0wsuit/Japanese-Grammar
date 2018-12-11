@@ -34,8 +34,8 @@ As well as the usual suspects, `くれる` is also an irregular verb in the impe
 |[くれる]()|くれ|
 
 ## See Also:
-* [The Nasai-Form](polite-commands-nasai)
-* [The Negative Imperative](negative-imperative)
+* [The Nasai-Form](polite-commands-nasai.md)
+* [The Negative Imperative](negative-imperative.md)
 
 ## Example Sentences:
 > [戸を閉めろ。]()  
@@ -45,8 +45,3 @@ As well as the usual suspects, `くれる` is also an irregular verb in the impe
 
 > [もうやめてくれ。]()  
 > Stop it.
-
-#
-
-
-

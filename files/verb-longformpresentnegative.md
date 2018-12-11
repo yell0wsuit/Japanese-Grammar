@@ -18,9 +18,9 @@ The basic conjugations of the masu-form are these:
 |Past|verb + ました|verb + ませんでした|
 
 ## See Also:
-* [The Masu-Form](verb-longformpresentaffirmative)
-* [The Mashita-Form](verb-longformpastaffirmative)
-* [The Masen-Deshita Form](verb-longformpastnegative)
+* [The Masu-Form](verb-longformpresentaffirmative.md)
+* [The Mashita-Form](verb-longformpastaffirmative.md)
+* [The Masen-Deshita Form](verb-longformpastnegative.md)
 
 ## Example Sentences:
 > [知りません。]()  

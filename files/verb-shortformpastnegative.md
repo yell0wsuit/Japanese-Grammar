@@ -39,9 +39,9 @@ There are exceptions to the above conjugation rules in the form of irregular ver
 |[ある]()|なかった|
 
 ## See Also:
-* [The Dictionary Form](verb-shortformpresentaffirmative)
-* [The Nai-Form](verb-shortformpresentnegative)
-* [The Ta-Form](verb-shortformpastaffirmative)
+* [The Dictionary Form](verb-shortformpresentaffirmative.md)
+* [The Nai-Form](verb-shortformpresentnegative.md)
+* [The Ta-Form](verb-shortformpastaffirmative.md)
 
 ## Example Sentences:
 > [そこで彼女に会わなかった？]()   

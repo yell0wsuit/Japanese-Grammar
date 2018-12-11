@@ -19,9 +19,9 @@ As you can see, there are only two tenses to learn in the above table. Non-past 
 Unlike English and most romantic languages, Japanese verbs do not conjugate based on their subject and remain unaffected whether 'I', 'you', 'he', 'she' or 'they' is the subject.
 
 ## See Also:
-* [The Masen-Form](verb-longformpresentnegative)
-* [The Mashita-Form](verb-longformpastaffirmative)
-* [The Masen-Deshita Form](verb-longformpastnegative)
+* [The Masen-Form](verb-longformpresentnegative.md)
+* [The Mashita-Form](verb-longformpastaffirmative.md)
+* [The Masen-Deshita Form](verb-longformpastnegative.md)
 
 ## Example Sentences:
 > [分かりますか？]()  

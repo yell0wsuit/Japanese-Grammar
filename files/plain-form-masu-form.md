@@ -36,6 +36,6 @@ Once you've got these rules down, you'll be able to flip any verb from its dicti
 The above examples all use verb stems. Learn more about [verb stems](verb-iform), here.
 
 ## See Also
-* [All About Verb Stems](verb-iform)
+* [All About Verb Stems](verb-iform.md)
 
 
