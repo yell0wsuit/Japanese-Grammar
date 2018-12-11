@@ -1,8 +1,8 @@
 # Na-Adjectives
- ---
+
 Na-adjectives are one of two main groups of adjectives, the other group being i-adjectives. Na-adjectives act exactly like nouns, and follow the same conjugation rules that nouns follow. 
 
-## Common Na-Adjectives:
+## Common Na-Adjectives
 > [きれい]()  
 > Beautiful 
 
@@ -68,5 +68,3 @@ Na-adjectives can modify nouns that follow them by adding `な` between the adje
 
 > [福岡が綺麗じゃなかった。]()  
 > Fukuoka wasn't beautiful.
-
- ---
