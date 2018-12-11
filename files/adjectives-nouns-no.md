@@ -5,7 +5,7 @@ Take the following sentence, ‘I have a big dog, I have a small one two.’ In 
 ## Using の
 The basic format is this:  
 
-* **i-adjective/na-adjective** + **noun** + **i-adjective/na-adjective** + **の**.
+* **i-adjective/na-adjective** + **noun** + **i-adjective/na-adjective** + **の**
 
 With this, you can make a sentence such as:  
 
