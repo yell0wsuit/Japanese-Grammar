@@ -13,22 +13,24 @@ The verb that precedes `と` can either be in the positive or the negative.
 > [雪が降らないと、スキーができません。]()  
 > If there is no snow, you cannot ski.
 
+
 Expressions used in the clause following `と` are natural and predictable events/states or unavoidable facts. Hence, the conditional `と` is often used to describe events of nature, the usage of machines and to give directions.
 
-## When not to use と
+## When not to use と
 As stated before, と precedes are natural and predictable events/states or unavoidable facts. This means that the clause following `と` should not  be an expressions of one's will, hope, judgement, permission, order, invitation or a request. The following, for example, would be incorrect:
 
-> アルバイトが終わるとアパートに来てください。
+> アルバイトが終わるとアパートに来てください。  
 > If you finish your part time job early, please come to my apartment. 
 
-## Example Sentences:
+
+## Example Sentences
 
 > [まっすぐ行くと、左に郵便局があります。]()  
 > If you go straight, the post office will be on the left.
 
 #
 
-> [このボタンを押すと、100円のお菓子が出ます。]()
+> [このボタンを押すと、100円のお菓子が出ます。]()  
 > If you press this button, a ¥100 sweet will come out.
 
 # 
@@ -38,7 +40,5 @@ As stated before, と precedes are natural and predictable events/states or unav
 
 #
 
-> [２０歳以上だと、日本ではお酒が飲めます。]()  
+> [20歳以上だと、日本ではお酒が飲めます。]()  
 > If you are older than 20, you can drink alcohol in Japan.
-
-
