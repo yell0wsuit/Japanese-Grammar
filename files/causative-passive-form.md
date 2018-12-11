@@ -49,12 +49,14 @@ Where the Topic is the person being made to do something, the Maker is the perso
 
 You will notice that the particle order is the opposite to that of the causative form, where the Causer is marked by the particle `は`.
 
-> **Causative-Passive**: [私はお母さんにケーキを作らせられました。]()  
+> **Causative-Passive**:  
+[私はお母さんにケーキを作らせられました。]()  
 > I was made by my mother to make a cake.
 
 #
 
-> **Causative**: [お母さんは私にケーキを作らせました。]()  
+> **Causative**:  
+[お母さんは私にケーキを作らせました。]()  
 > My mother made me make a cake.
 
 ## Get rid of the 私
