@@ -19,7 +19,6 @@ If you went somewhere, or are doing something with another person, you can expre
 > [友達と買い物に行く。]()  
 > I will go shopping with my friend.
 
-#
 
 In this context `と` always follows the noun you're doing something with; the syntax is opposite to the English.
 
@@ -29,16 +28,13 @@ When comparing and contrasting, you use the particle `と` after each of things 
 > [ピアノとギターと、どちらの方が好きですか。]()  
 > Which do you prefer: piano or guitar?
 
-#
-
-## Using と to mark quotation
+## Using と to mark quotation
 `と` is used to mark a quotation or thought, for example: 
 
 > [彼は「愛してる？」と言いました。]()  
 > He asked, "Do you love me?"
 
-#
 
-To read more on quoting people, or expressing thoughts, study [this article](quoting-people-and-saying-what-you-think).
+To read more on quoting people, or expressing thoughts, study [this article](quoting-people-and-saying-what-you-think.md).
 
 
