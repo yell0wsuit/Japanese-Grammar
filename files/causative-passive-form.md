@@ -5,7 +5,8 @@ The causative-passive from combines the causative and passive forms. It is used 
 > [弟はお父さんに歩いて帰らせられた。]()  
 > My younger brother was made to walk home by my father.
 
-## Conjugating the Causative-Passive Form
+
+## Conjugating the Causative-Passive Form
 Verbs can be conjugated in two ways. One way is to conjugate the dictionary form of a verb to its causative form, and then conjugating the causative form into its passive form. However, this process is a little long winded, so we've outlined a quicker method of conjugation in the tables below.
 
 ### U-Verbs
@@ -67,9 +68,8 @@ The 'Maker' can also be omitted from a sentence if there's no person in particul
 > [ケーキを作らせられました。]()  
 > (I was) made to make a cake.
 
-#
 
-## Example Sentences:
+## Example Sentences
 > [親に毎晩宿題をさせられます。]()  
 > My parents force me to do my homework every evening.
 
@@ -92,5 +92,3 @@ The 'Maker' can also be omitted from a sentence if there's no person in particul
 
 > [友達に二時間も待たせられた。]()  
 > My friend cause me to wait for two hours.
-
-
