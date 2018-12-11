@@ -7,7 +7,7 @@ The basic form is as follows:
 
 > Verb (in ta-form) + ことがある
 
-The verb is always in the [ta-form](verb-shortformpastaffirmative). Meanwhile, the `ある` of `ことがある` always remains in the present tense, though can be conjugated to the polite form, te-form etc.
+The verb is always in the [ta-form](verb-shortformpastaffirmative.md). Meanwhile, the `ある` of `ことがある` always remains in the present tense, though can be conjugated to the polite form, te-form etc.
 
 ### Questions
 To ask whether someone has experienced something, you can create questions using `ことがある`, e.g.
@@ -70,6 +70,3 @@ You can however, say how many times you've done something in the past, for examp
 
 > [二回 富士山に登ったことがあります。]()  
 > I've climbed Mt. Fuji twice.
-
-
-
