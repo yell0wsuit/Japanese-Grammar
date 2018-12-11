@@ -2,7 +2,7 @@
 
 `を` is used in combination with direct objects, nouns used to perform an action. `を` serves no other purpose, so if you see or hear it used in a sentence, you can assume that it follows the direct object of the sentence. 
 
-Despite being written as the hiragana kana "wo", `を` the particle is pronounced `お`
+Despite being written as the hiragana kana "wo", the particle `を` is pronounced `お`
 
 ## Example Sentences:
 > [パンを食べています。]()  
