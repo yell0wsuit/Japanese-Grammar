@@ -3,12 +3,7 @@
 Some of the most common interrogatives in Japanese are:
 
 * [誰]() - Who
-> [何]()  
-> なに／なん
-
-#
-
- - What
+* [何（なに／なん）]() - What
 * [どこ]() - Where
 * [どう]() - How
 * [どうして]() - Why
@@ -39,7 +34,7 @@ The rule isn't consistent as to which words change meaning depending on the posi
 * [皆]() - everybody
 * [皆さん]() - everybody (polite)
 * [全部]() - everything
-* [全然] () - not at all (when used with negative)
+* [全然]() - not at all (when used with negative)
 * [絶対]() - absolutely, unconditionally or never when used with negative
 
 ## Interrogatives with でも
@@ -70,6 +65,4 @@ Adding `か` to an interrogative is like adding the word 'some'
 * [いくらか]() - some amount
 
 ## Interrogatives with の
-By combing the interrogative `誰` with `の` you can create the word [誰の]() which translates to 'whose'. `の` can also be used as a question marker in its own right.
-
-
+By combing the interrogative `誰` with `の` you can create the word `誰の` which translates to 'whose'. `の` can also be used as a question marker in its own right.
