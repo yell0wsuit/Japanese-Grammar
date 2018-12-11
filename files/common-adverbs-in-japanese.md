@@ -1,5 +1,5 @@
 # Common Adverbs in Japanese
- ---
+
 Adverbs are words or phrases that modify the meaning of an adjective, verb, or other adverb, expressing manner, place, time, or degree. Japanese has many adverbs that add specificity to sentences. This article introduces some of the most common adverbs in Japanese.
 
 ## Adverbs of Frequency
@@ -26,9 +26,6 @@ Adverbs of frequency can be added to sentences to describe how often you do some
 > [彼女はあまりテレビを見ない]()  
 > She doesn't often watch TV.
 
-#
-
-
 
 ## Adverbs of Degree
 Adverbs of degree are added to sentences to clarify whether something possesses a lot or a little of a certain characteristic.
@@ -44,9 +41,7 @@ For example:
 #
 
 > [このカレーはちょと辛いです。]()  
-> This curry is a little spicy
-
-#
+> This curry is a little spicy.
 
 ## Adverbs of Quantity
 Adverbs of Quantity are used to express whether something was performed a lot or a little. These expressions can be attached directly before a direct object, or alternatively before the verb.
@@ -64,11 +59,6 @@ For example:
 > [東京で写真を少し撮りました。]()  
 > In Tokyo I took few photos.
 
-#
 
 ## Turning Adjectives into Adverbs.
-Many adjectives can in their own right be turned into adverbs. To learn more about turning adjectives into adverbs, see [this article](adjective-combined).
-
-
-
- ---
+Many adjectives can in their own right be turned into adverbs. To learn more about turning adjectives into adverbs, see [this article](adjective-combined.md).
