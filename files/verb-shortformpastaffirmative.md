@@ -82,7 +82,7 @@ Take the dictionary form of the verb, remove the `る` and add `た`.
 
 #
 
-> [ようやく稼いだ金を無駄遣いするなよ！]() 
+> [ようやく稼いだ金を無駄遣いするなよ！]()  
 > Don't squander your newly earned money!
 
 #
