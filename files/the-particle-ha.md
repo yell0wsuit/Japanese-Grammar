@@ -16,12 +16,12 @@ Because `は` is used to mark the topic, a piece of information that is not stri
 
 Take the following sentence:
 
-> 私 は/が　**ケーキを食べた。**
+> 私は/が**ケーキを食べた。**
 
 Now, if you remove everything before `ケーキ`, does the sentence become:   
 
-1. vague, conveying core information but omitting context (e.g. as the answer to the question 'what did you do last night?'), or 
-2. unintelligible and no longer able to convey the information desired (e.g. as the answer to the question 'who ate the cake last night?')
+1. vague, conveying core information but omitting context (e.g. as the answer to the question 'What did you do last night?'), or 
+2. unintelligible and no longer able to convey the information desired (e.g. as the answer to the question 'Who ate the cake last night?')
 
 If your answer to the above is 1, then `は` is most likely the particle you want to use. If your answer is 2, then `が` is the particle you're after. 
 
@@ -43,5 +43,3 @@ If you introduce every sentence with `私は` you are making yourself the topic 
 
 > [その小説家は本を書くために材料を集めた。]()   
 > The novelist gathered materials for his work.
-
-
