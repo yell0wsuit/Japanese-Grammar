@@ -1,11 +1,11 @@
 # Adjectives: Turning Adjectives into Adverbs
- ---
+
 It is possible to transform adjectives into adverbs. A similar transformation occurs in the English language in the transformation of an adjective quick into its adverb quickly. 
 
-## I-Adjectives
-To turn an i-adjective into an adverb, simply remove the final い and replace it with a く
+## i-adjectives
+To turn an i-adjective into an adverb, simply remove the final `い` and replace it with a `く`.
 
-### Common I-Adjective Adverbs
+### Common i-adjective adverbs
 > [暖かく]()  
 > warmly
 
@@ -27,16 +27,13 @@ To turn an i-adjective into an adverb, simply remove the final い and replace i
 > [かわいく]()  
 > cutely
 
-#
 
+[Learn more about i-adjectives](i-adjectives.md)
 
+## na-adjectives
+To turn a na-adjective into an adverb, replace the particle `な` that sits between the adjective and the noun, with `に`.
 
-[Learn more about i-adjectives](i-adjectives)
-
-## Na-Adjectives
-To turn a na-adjective into an adverb, replace the particle な that sits between the adjective and the noun, with に.
-
-### Common Na-Adjective Adverbs
+### Common na-adjective Adverbs
 > [有名に]()  
 > famously
 
@@ -58,13 +55,10 @@ To turn a na-adjective into an adverb, replace the particle な that sits betwee
 > [便利に]()  
 > conveniently
 
-#
 
+[Learn more about na-adjectives](adjective-naform.md)
 
-
-[Learn more about na-adjectives](adjective-naform)
-
-## Example Sentences:
+## Example sentences
 > [今日は暖かくて気持ちが良い。]()  
 > The weather is lovely and warm today.
 
@@ -85,9 +79,3 @@ To turn a na-adjective into an adverb, replace the particle な that sits betwee
 
 > [あなたたち、元気にしてる？]()  
 > How are you two doing?
-
-#
-
-
-
- ---
