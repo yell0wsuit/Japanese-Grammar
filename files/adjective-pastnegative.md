@@ -9,12 +9,12 @@ Take the plain, non-past affirmative. Remove the final `い` and add `くなか�
 
 ### Common Polite, Past Affirmative I-Adjectives
 
-> [暖かくなかったです]()  
+> [暖かくなかったです。]()  
 > It wasn't warm
 
 #
 
-> [新しくなかったです]()  
+> [新しくなかったです。]()  
 > It wasn't new
 
 #
