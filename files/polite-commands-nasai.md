@@ -5,7 +5,7 @@ While the [imperative form](verb-imperativeform) allows you to make direct comma
 This form is commonly used when parents are telling off their child, or a teacher wants the attention of a distracted pupil. 
 
 ## Conjugation
-Conjugating to the `なさい` form involves reducing a verb to its [stem](verb-iform), and then adding `なさい`.
+Conjugating to the `なさい` form involves reducing a verb to its [stem](verb-iform.md), and then adding `なさい`.
 
 |Dictionary Form|Stem|Nasai-form |
 |:--|:--|:--|
@@ -14,7 +14,7 @@ Conjugating to the `なさい` form involves reducing a verb to its [stem](verb-
 |[する](1157170)|し|しなさい|
 |[くる]()|き|きなさい|
 
-## Example Sentences: 
+## Example Sentences
 > [馬に乗りなさい。]()  
 > Get on the horse.
 
