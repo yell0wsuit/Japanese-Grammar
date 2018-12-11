@@ -47,3 +47,17 @@
 26. [Polite Commands with なさい](files/polite-commands-nasai.md)
 27. [The Present Perfect with ことがある](files/the-present-perfect-koto-ga-aru.md)
 28. [How to use ている](files/how-to-use-te-iru.md)
+
+## Particles and Copulas
+1. [Connecting Two Nouns With の](files/connecting-two-nouns-no.md)
+2. [Interrogatives and Particles](files/interrogatives-particles.md)
+3. [Making Questions with か](files/making-questions-ka.md)
+4. [The Particle が](files/the-particle-ga.md)
+5. [The Particle で](files/the-particle-de.md)
+6. [The Particle と](files/the-particle-to.md)
+7. [The Particle に](files/the-particle-ni.md)
+8. [The Particle は](files/the-particle-ha.md)
+9. [The Particle へ](files/the-particle-he.md)
+10. [The Particle も](files/the-particle-mo.md)
+11. [The Particle を](files/the-particle-wo.md)
+12. [The Various Forms of です](files/the-various-forms-of-desu.md)
