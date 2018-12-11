@@ -1,5 +1,5 @@
 # Adjectives: The Plain Form Non-past Negative
- ---
+
 ## I-Adjectives
 The plain, non-past negative of an i-adjective involves basic conjugation of the plain, non-past affirmative.
 
@@ -22,7 +22,7 @@ Take the plain, non-past affirmative. Remove the final `い`, then add `くな�
 > [面白くない]()  
 It is not interesting/funny
 
-[Learn more about i-adjectives >](i-adjectives)
+[Learn more about i-adjectives >](i-adjectives.md)
 
 ## Na-Adjectives
 The plain, non-past negative of a na-adjective is conjugated as follows:
@@ -46,11 +46,11 @@ Take the plain, non-past affirmative. Remove `だ` and add `じゃない`. For e
 > [きれいじゃない]()  
 > It is not beautiful/clean
 
-[Learn more about na-adjectives >](adjective-naform)
+[Learn more about na-adjectives >](adjective-naform.md)
 
 ## See Also:
-* [Adjectives: The Plain Form Non-Past Affirmative](adjective-informalpresentaffirmative)
-* [Adjectives: The Plain Form Past Affirmative](adjective-informalpastaffirmative)
-* [Adjectives: The Plain Form Past Negative](adjective-informalpastnegative)
+* [Adjectives: The Plain Form Non-Past Affirmative](adjective-informalpresentaffirmative.md)
+* [Adjectives: The Plain Form Past Affirmative](adjective-informalpastaffirmative.md)
+* [Adjectives: The Plain Form Past Negative](adjective-informalpastnegative.md)
 
- ---
+
