@@ -7,7 +7,7 @@ Verbs ending in `ませんでした` are considered polite, and are safe for eve
 ## Conjugating the Polite Negative
 If you know a verb in its masu-form, then creating the masendeshita-form is easy. Simply remove the `ます` and add `ませんでした`. 
 
-If you do not know the masu-form, then check out [this article](plain-form-masu-form) on how to conjugate from the plain form to the masu-form.
+If you do not know the masu-form, then check out [this article](plain-form-masu-form.md) on how to conjugate from the plain form to the masu-form.
 
 ## The Masu-Form
 The basic conjugations of the masu-form are these:
@@ -17,12 +17,12 @@ The basic conjugations of the masu-form are these:
 |Non-past|verb + ます|verb + ません|
 |Past|verb + ました|verb + ませんでした|
 
-## See Also:
+## See Also
 * [The Masu-Form](verb-longformpresentaffirmative.md)
 * [The Masen-Form](verb-longformpresentnegative.md)
 * [The Mashita-Form](verb-longformpastaffirmative.md)
 
-## Example Sentences:
+## Example Sentences
 > [痛くありませんでしたか？]()   
 > Doesn't that hurt?
   
