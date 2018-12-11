@@ -2,25 +2,25 @@
  ---
 Adjectives are used in conjugation with the verb `する` to make adjectives active, creating sentences such as `冷たくする` (to make something cold/colder).
 
-##I-Adjectives
+## i-adjectives
 With i-adjectives, remove the final `い` and add `く`. Then add `する`. `する` can be conjugated further to create more complex sentences. 
 
-|I-Adjective|+する| 
+|i-adjective|+ する| 
 |:--|:--|
 |楽しい|楽しくする|
 |高い|高くする|　
 
-##Na-Adjectives
+## na-adjectives
 With na-adjectives, remove the `な` and replace it with `に` and add `する`.
 
-|Na-Adjective|+する| 
+|na-adjective|+ する| 
 |:--|:--|
 |綺麗な|綺麗にする|
 |賑やかな|賑やかにする|　
 
 These forms are often combined with the te-form of `する` to make polite requests. See the example sentences below for more ideas of the constructions use.
 
-## Example Sentences:
+## Example sentences:
 > [音楽は私達の生活を楽しくする。]()  
 > Music makes our live's more enjoyable.
 
