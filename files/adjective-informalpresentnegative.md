@@ -7,7 +7,7 @@ Take the plain, non-past affirmative. Remove the final `い`, then add `くな�
 
 * `高い` becomes `高` and then conjugates to `高くない`.
 
-### Common Plain Form, Non-Past Affirmative I-Adjectives.
+### Common Plain Form, Non-Past Affirmative I-Adjectives
 
 > [暖かくない]()  
 > It is not warm
@@ -31,7 +31,7 @@ Take the plain, non-past affirmative. Remove `だ` and add `じゃない`. For e
 
 * `好きだ` becomes `好き` and then conjugates to `好きじゃない`
 
-### Common Plain Form, Non-Past Affirmative Na-Adjectives.
+### Common Plain Form, Non-Past Affirmative Na-Adjectives
 
 > [好きじゃない]()  
 > I don't like it
