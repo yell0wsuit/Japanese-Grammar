@@ -21,8 +21,8 @@ With na-adjectives, remove the `な` and replace it with `に` and add `する`.
 These forms are often combined with the te-form of `する` to make polite requests. See the example sentences below for more ideas of the constructions use.
 
 ## Example sentences
-> [音楽は私達の生活を楽しくする。]()  
-> Music makes our lives more enjoyable.
+> [<ruby>音楽<rt>おんがく</rt></ruby>は<ruby>私<rt>わたし</rt></ruby><ruby>達<rt>たち</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しくする。]()  
+> Music makes our life more enjoyable.
 
 #
 
