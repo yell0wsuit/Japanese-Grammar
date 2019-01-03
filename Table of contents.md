@@ -61,3 +61,10 @@
 10. [The Particle も](files/the-particle-mo.md)
 11. [The Particle を](files/the-particle-wo.md)
 12. [The Various Forms of です](files/the-various-forms-of-desu.md)
+
+## Verb Sequences
+1. [After Something: てから](files/after-something-tekara.md)
+2. [Before - 前に](files/before-mae-ni.md)
+3. [Using 後で](files/using-ato-de.md)
+4. [When: 時](files/when-toki.md)
+5. [While X, Y with ながら](files/while-x-y-nagara.md)
