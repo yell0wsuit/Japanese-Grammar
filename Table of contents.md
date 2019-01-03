@@ -1,5 +1,9 @@
 # Table of contents
 
+## Introduction
+1. [Kana vs. Kanji](files/kana-vs-kanji.md)
+2. [Word Order in Japanese](files/word-order-japanese.md)
+
 ## Adjectives
 1. [Adjectives + する](files/adjectives-suru.md)
 2. [Adjectives/Nouns with の](files/adjectives-nouns-no.md)
@@ -102,3 +106,19 @@
 6. [Personal Pronouns](files/personal-pronouns.md)
 7. [Thanking Someone For Doing Something](files/thanking-someone-for-doing-something.md)
 8. [Using んです](files/using-ndesu.md)
+
+## Location, Location, Location
+1. [Explaining Where Things Are](files/explaining-where-things-are.md)
+2. [Going Place to Do Things (に行く)](files/going-place-to-do-things-ni-iku.md)
+3. [Here, There, Over There with ここ, そこ & あそこ](files/here-there-overthere-koko-soko-asoko.md)
+4. [Specifying Objects with この, その & あの](files/specifying-objects-kono-sono-ano.md)
+5. [The Presence of Things: があります and がいます](files/the-presence-of-things-ga-arimasu-ga-imasu.md)
+6. [This Thing, That thing with これ, それ & あれ](files/this-that-kore-sore-are.md)
+
+## Conjunctions
+1. [Comparing Two Things with の方が](files/comparing-two-things-with-no-hou-ga.md)
+2. [Connecting Nouns with や](files/conjunction-ya.md)
+3. [Connecting Opposing Facts with のに](files/connecting-opposing-facts-no-ni.md)
+4. [Linking Sentences with たり](files/linking-sentences-tari.md)
+5. [Using から to Mean Because](files/using-kara-to-mean-because.md)
+6. [Using ので to Mean Because](files/using-node-to-mean-because.md)
