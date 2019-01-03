@@ -92,3 +92,13 @@
 4. [Frequency](files/frequency.md)
 5. [Telling the Time](files/telling-time.md)
 6. [Using 人 to Count People](files/using-hito-to-count-people.md)
+
+## Speech Styles and Courtesy
+1. [Apologising with すみませんでした](files/apologising-with-sumimasen-deshita.md)
+2. [Ending Sentences with ね and よ](files/ending-statements-with-ne-and-yo.md)
+3. [Expressing Gratitude with おかげで](files/expressing-gratitude-with-okagede.md)
+4. [Male and Female Speech](files/male-and-female-speech.md)
+5. [Names and Courtesy Titles](files/names-and-courtesy-titles.md)
+6. [Personal Pronouns](files/personal-pronouns.md)
+7. [Thanking Someone For Doing Something](files/thanking-someone-for-doing-something.md)
+8. [Using んです](files/using-ndesu.md)
