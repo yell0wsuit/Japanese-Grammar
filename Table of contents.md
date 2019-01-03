@@ -84,3 +84,11 @@
 12. [Using てほしい](files/using-te-hoshii.md)
 13. [Using ても](files/using-temo.md)
 14. [Using ないで](files/using-nai-de.md)
+
+## Counters
+1. [Common Counters](files/common-counters.md)
+2. [Days, Weeks, Months & Years](files/days-weeks-months-years.md)
+3. [Expressing Duration](files/expressing-duration.md)
+4. [Frequency](files/frequency.md)
+5. [Telling the Time](files/telling-time.md)
+6. [Using 人 to Count People](files/using-hito-to-count-people.md)
