@@ -1,6 +1,5 @@
 # Japanese Grammar
-Grammar references in Japanese app https://www.japaneseapp.com/. Formatted to GitHub-friendly format.
+Grammar references in Japanese app https://www.japaneseapp.com/.
 
-# Contents
-See [here](/Table%20of%20contents.md).  
-Please note that the Japanese character links are not meant to be clicked. They are made because of lack of color formatting in Markdown language.
+> [!IMPORTANT]  
+> This repo's content is moved to [https://github.com/yell0wsuit/docugrammar](https://github.com/yell0wsuit/docugrammar). Please go to that link for improved version of this repo.
